@@ -1,0 +1,8 @@
+Name: Tushar Jain
+Comments: Add a bit of JS and more inter-activity. Also you can add a small mini-game using JS.
+Name: cvd
+Comments: cvcv
+Name: Raghaevndra Kaushik
+Comments: The feature of showing the number of times website has viewed is nice. it would be great if this website is also mobile responsive!
+Name: Sakshee
+Comments: You're doing great
