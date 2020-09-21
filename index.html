@@ -39,8 +39,6 @@
         <li><a href="./academics.html">Academics</a></li>
         <li><a href="./myprojects.html">My Projects</a></li>
         <li><a href="./contact.html">Contact Me</a></li>
-        <li><a href="./feedback.php">Send a Feedback!</a></li>
-        <li><a href="./allfeedbacks.php">View All Feedbacks</a></li>
         <li><a href="./resume.pdf">Resume</a></li>
       </ul>
       
@@ -138,18 +136,6 @@
     <br><br><br>
     <br><br><br>
 	</div>
-  <div class="container bg-4">
-      <span class="ending">Oh fun fact: This page has been accessed <?php
-        $hitfile = fopen("numberOfHits.txt","r") or die("Unable to open file");
-        $val = fread($hitfile,filesize("numberOfHits.txt"));
-        $val = $val + 1;  
-        echo $val;  
-        fclose($hitfile);
-        $hitfile = fopen("numberOfHits.txt","w") or die("Unable to open file");
-        fwrite($hitfile,"$val");  
-        fclose($hitfile);
-      ?> time(s) since the last time I reset the timer. Maintained using PHP. Liked this page? How can I improve on this? Give a feedback <a href="./feedback.php">here</a>, and view all past feedbacks <a href="./allfeedbacks.php">here</a></span>
-  </div>
 	<!-- <div id="content-3" style="position:relative; width:100%; background-color:white;">
 	  <div class="content" style="color: #222;">
 	    You can reach me at
