@@ -16,8 +16,10 @@
 title: Yash Sharma
 email: yash.sharma200999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a Computer Science student at Cornell University.
-  I'm pursuing not just my Master's degree, but the next big idea to build something for the greater good. 
+  I'm a Computer Science graduate from IIT Bombay, pursuing my MS at Cornell University.
+
+# My passion for mathematics, computer science and machine learning has led me to pursue research in Robotics and NLP. 
+# I'm looking for opportunities as I graduate in 2024, please reach out!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "yash-s20.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yash_s20
