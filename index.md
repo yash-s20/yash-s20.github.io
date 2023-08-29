@@ -16,4 +16,4 @@ I find my interests in Artificial Intelligence, Programming Languages and Theory
 
 You can find my publications and projects <a href="{{site.baseurl}}/projects/"> here</a>.
 
-<img width="40%" border-radius="50%" src="{{site.baseurl}}/assets/me.jpg" alt="A picture of me at the Bellagio Botanical Garden">
+<img width="40%" border-radius="50%" src="{{site.baseurl}}/assets/me.jpg" alt="A picture of me at an art installation at teamLab Planets, Tokyo">
