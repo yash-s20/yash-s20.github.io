@@ -16,4 +16,6 @@ I find my interests in Artificial Intelligence, Programming Languages and Theory
 
 You can find my publications and projects <a href="{{site.baseurl}}/projects/"> here</a>.
 
+I am looking to join an impactful company in a software engineer or ML Engineer/Scientist position. If you're hiring, please have a look at my <a href="{{site.baseurl}}/resume.pdf">resume</a> and <a href="mailto:yash.sharma200999@gmail.com">reach out to me</a>!
+
 <img width="40%" border-radius="50%" src="{{site.baseurl}}/assets/me.jpg" alt="A picture of me at an art installation at teamLab Planets, Tokyo">
