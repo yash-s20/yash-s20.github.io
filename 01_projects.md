@@ -8,14 +8,14 @@ permalink: /projects/
   <br>
   <div>
       <h3><a href="https://openreview.net/pdf?id=ayLov67GxD">Video2Demo: Grounding Videos in State-Action Demonstrations</a> </h3> 
-      <p>on arxiv soon</p>
+      <p>On arxiv soon</p>
   </div>
 </div>
 
 <div class="container bg-1 text-center">
   <br>
   <div>
-      <h3><a href="https://portal.cs.cornell.edu/MOSAIC/">MOSAIC: </a></h3>
+      <h3><a href="https://portal.cs.cornell.edu/MOSAIC/">MOSAIC: A Modular System for Assistive and Interactive Cooking</ a></h3>
       <p>Under review at RSS 2024</p> 
   </div>
 </div>
@@ -33,7 +33,8 @@ permalink: /projects/
 <div class="container bg-1 text-center">
   <br>
   <div>
-      <h3><a href="https://arxiv.org/abs/2010.05549">Improving Low Resource Code-switched ASR using Augmented Code-switched TTS</a></h3> 
+      <h3><a href="https://arxiv.org/abs/2010.05549">Improving Low Resource Code-switched ASR using Augmented Code-switched TTS</a></h3>
+      <p>Published at INTERSPEECH 2020</p> 
   </div>
 </div>
 
@@ -41,6 +42,7 @@ permalink: /projects/
   <br>
   <div>
       <h3><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11318/113180C/WeLineation-crowdsourcing-delineations-for-reliable-ground-truth-estimation/10.1117/12.2551279.short">WeLineation</a> and <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11318/113180K/STAPLE-performance-assessed-on-crowdsourced-sclera-segmentations/10.1117/12.2551297.short">STAPLE performance assessment</a></h3> 
+      <p>Published at SPIE Medical Imaging 2020</p>
     </div>
 </div>
 

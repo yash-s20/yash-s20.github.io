@@ -17,7 +17,7 @@ I find my interests in Artificial Intelligence for Language and Perception, Prog
 
 You can find my publications and projects <a href="{{site.baseurl}}/projects/"> here</a>.
 
-I will be joining <a href="https://maticrobots.com/" target="_blank">Matic</a> as a Research Engineer in June 2024.
+I will moving to the Bay Area and joining <a href="https://maticrobots.com/" target="_blank">Matic</a> as a Research Engineer in June 2024.
 
 To know more, please have a look at my <a href="{{site.baseurl}}/resume.pdf">resume</a>. Reach out <a href="mailto:yash.sharma200999@gmail.com">here</a>!
 
