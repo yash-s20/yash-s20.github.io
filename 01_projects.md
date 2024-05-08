@@ -15,7 +15,7 @@ permalink: /projects/
 <div class="container bg-1 text-center">
   <br>
   <div>
-      <h3><a href="https://portal.cs.cornell.edu/MOSAIC/">MOSAIC: A Modular System for Assistive and Interactive Cooking</ a></h3>
+      <h3><a href="https://portal.cs.cornell.edu/MOSAIC/">MOSAIC: A Modular System for Assistive and Interactive Cooking</a></h3>
       <p>Under review at RSS 2024</p> 
   </div>
 </div>
