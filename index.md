@@ -11,7 +11,7 @@ I am a Computer Scientist and Engineer.
 
 I joined <a href="https://maticrobots.com/" target="_blank">Matic Robots</a> as a Research Engineer in June 2024, where we are building robots that save people time and energy.
 
-I graduated from Cornell University with a Masters specializing in Large Language Model application in robotics at the <a href="https://portal-cornell.github.io/" target="_blank">PoRTaL group</a> and teaching amazing courses in several sub-fields of CS. I graduated from IIT Bombay in 2021.
+I graduated from Cornell University with a Masters specializing in Large Language Model application in robotics at the <a href="https://portal-cornell.github.io/" target="_blank">PoRTaL group</a>, while teaching courses in several sub-fields of CS as a Teaching Assistant. I graduated from IIT Bombay in 2021.
 
 I have worked at Samsung Electronics developing 5G vRAN software.
  
